@@ -1,0 +1,8 @@
+name: "strident-crisis-music-pack"
+displayName: "vs Bambi: Strident Crisis Music Pack"
+description: "Replaces most songs with instrumentals from that FNF mod. Every song belongs to their respective owners."
+author: ".cab file"
+minGameVersion: "140"
+version: "1.0"
+hideBrowser: false
+hidden: true
